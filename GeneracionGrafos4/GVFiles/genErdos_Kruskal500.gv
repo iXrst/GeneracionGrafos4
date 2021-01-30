@@ -1,0 +1,5 @@
+graph abstract {
+  0 [label="0"];
+  102 [label="102"];
+  0 -- 102 [label="22"];
+}
